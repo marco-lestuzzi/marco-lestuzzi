@@ -18,8 +18,8 @@ Prediligo soluzioni semplici, affidabili e mantenibili nel tempo, con particolar
 
 Alcuni tool e utility che ho sviluppato e pubblicato:
 
-* **[me-cron](https://github.com/marco-lestuzzi/me-cron)** — Cron engine modulare e leggero in PHP, pensato per ambienti di hosting condiviso. Gestisce e lancia task programmati in parallelo senza dipendenze o necessità di database.
-* **[mysqldump-filter](https://github.com/marco-lestuzzi/mysqldump-filter)** — Utility CLI ad alte prestazioni in C (senza dipendenze esterne) per estrarre e filtrare in modo selettivo tabelle, viste, strutture o dati da file `mysqldump` di grandi dimensioni (decine o centinaia di GB).
+* **[me-cron](https://github.com/marco-lestuzzi/me-cron)**: Cron engine modulare e leggero in PHP, pensato per ambienti di hosting condiviso. Gestisce e lancia task programmati in parallelo senza dipendenze o necessità di database.
+* **[mysqldump-filter](https://github.com/marco-lestuzzi/mysqldump-filter)**: Utility CLI ad alte prestazioni in C (senza dipendenze esterne) per estrarre e filtrare in modo selettivo tabelle, viste, strutture o dati da file `mysqldump` di grandi dimensioni (decine o centinaia di GB).
 
 ## Esperienze
 
