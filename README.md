@@ -14,19 +14,20 @@ Prediligo soluzioni semplici, affidabili e mantenibili nel tempo, con particolar
 * Networking e sicurezza
 * Infrastrutture virtualizzate
 
+## Progetti Open Source
+
+Alcuni tool e utility che ho sviluppato e pubblicato:
+
+* **[me-cron](https://github.com/marco-lestuzzi/me-cron)** — Cron engine modulare e leggero in PHP, pensato per ambienti di hosting condiviso. Gestisce e lancia task programmati in parallelo senza dipendenze o necessità di database.
+* **[mysqldump-filter](https://github.com/marco-lestuzzi/mysqldump-filter)** — Utility CLI ad alte prestazioni in C (senza dipendenze esterne) per estrarre e filtrare in modo selettivo tabelle, viste, strutture o dati da file `mysqldump` di grandi dimensioni (decine o centinaia di GB).
+
 ## Esperienze
 
 Nel corso degli anni ho collaborato alla realizzazione e manutenzione di siti web, portali e servizi online per aziende, enti pubblici e associazioni del territorio.
 
-## GitHub
-
-Questo profilo GitHub ha funzione principalmente identificativa.
-
-Utilizzo GitHub come strumento personale per la gestione e il versionamento dei progetti. I repository che utilizzo abitualmente sono privati e non vengono normalmente pubblicati come software open source.
-
 ## Tecnologie
 
-PHP, JavaScript, HTML, CSS, MySQL, Linux, Git, Docker e strumenti per l'automazione e il monitoraggio dei sistemi.
+PHP, JavaScript, HTML, CSS, MySQL, C, Linux, Git, Docker e strumenti per l'automazione e il monitoraggio dei sistemi.
 
 ## Web
 
